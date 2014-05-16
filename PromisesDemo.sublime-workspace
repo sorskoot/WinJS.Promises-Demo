@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"conos",
+				"console.log(message);"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"Type",
+				"typescript"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "demo.js",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"grunt default",
+				"Preferences: Grunt - Settings – Default"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"cmd",
+			"cmd grunt",
+			"Grunt",
+			"clear",
+			"cls",
+			"grunt",
+			"npm",
+			"node",
+			"npm",
+			"grunt",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  ",
+			"urllib.request.ProxyHandler()",
+			"urllib.request",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  ",
+			"grunt"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/work/PromisesDemo/index.html",
+		"/C/work/PromisesDemo/package.json",
+		"/C/work/RepeaterBinding/package.json",
+		"/C/work/RepeaterBinding/RepeaterBinding.sublime-project",
+		"/C/work/RepeaterBinding/index.html",
+		"/C/work/WinJS1/index.html",
+		"/C/work/WinJS1/scripts/bootstrap.js",
+		"/C/work/WinJS1/scripts/main.js",
+		"/C/work/WinJS1/scripts/config.js",
+		"/C/work/WinJS1/gruntfile.js",
+		"/C/Users/tkokke/Sources/require.js",
+		"/C/work/WinJS1/package.json",
+		"/C/work/WinJS1/winjs1.sublime-project",
+		"/C/work/WinJS1/gruntfile.json",
+		"/C/work/WinJS1/js/en-US/base.strings.js",
+		"/W/Visual Studio 2013/Projects/TypeScriptHTMLApp8/TypeScriptHTMLApp8/Gruntfile.js",
+		"/W/Visual Studio 2013/Projects/TypeScriptHTMLApp8/TypeScriptHTMLApp8/TypeScript/app.ts",
+		"/W/Visual Studio 2013/Projects/TypeScriptHTMLApp8/TypeScriptHTMLApp8/js/app.js",
+		"/C/Users/tkokke/AppData/Roaming/Sublime Text 3/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/W/Visual Studio 2013/Projects/TypeScriptHTMLApp8/TypeScriptHTMLApp8/app.ts",
+		"/W/Visual Studio 2013/Projects/TypeScriptHTMLApp8/TypeScriptHTMLApp8/node_modules/require/lib/getRequireStatements.js",
+		"/W/Visual Studio 2013/Projects/TypeScriptHTMLApp8/TypeScriptHTMLApp8/index.html",
+		"/C/Users/tkokke/AppData/Roaming/Sublime Text 3/Packages/User/index.html",
+		"/C/work/1/1.ts",
+		"/C/Users/tkokke/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tkokke/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"})",
+			"\n<",
+			"langua"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "demo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "PromisesDemo.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\work\\RepeaterBinding\\RepeaterBinding.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
